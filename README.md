@@ -1,4 +1,4 @@
-# Well-Formed HTML Document Lab
+<!DOCTYPE html>
 
 ## Problem Statement
 
